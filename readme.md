@@ -22,6 +22,8 @@ If you don't, install it here: http://cactuslab.com/imagemagick/
 
 You should edit the config file to see wtf is happening, but basically, it's going to take 4 screenshots and plop them into a folder for you.
 
-`cd desktop; mkdir screenshot-capture; cd screenshot-capture;`
+Make your way to your cloned folder
+`cd screenshots;`
 
+Then run this beauty
 `watircats screenshots http://fpd.fullphatdesign.co.uk --config_file config.yml`
