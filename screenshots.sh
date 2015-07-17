@@ -1,0 +1,1 @@
+watircats screenshots http://fpd.fullphattest.co.uk --config_file config.yml
