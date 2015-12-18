@@ -26,4 +26,4 @@ Make your way to your cloned folder
 `cd screenshots;`
 
 Then run this beauty
-`watircats screenshots http://fpd.fullphatdesign.co.uk --config_file config.yml`
+`watircats screenshots http://fullphatdesign.co.uk --config_file config.yml`
