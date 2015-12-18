@@ -25,5 +25,7 @@ You should edit the config file to see wtf is happening, but basically, it's goi
 Make your way to your cloned folder
 `cd screenshots;`
 
-Then run this beauty
-`watircats screenshots http://fullphatdesign.co.uk --config_file config.yml`
+Edit the `urls.txt` to have the URLS you want to crawl on this domain. If you don't know them yet, I would recommend downloading something like [Screaming Frog](http://www.screamingfrog.co.uk/seo-spider/) and crawl your site. Then use that to populate the `urls.txt`. Sounds complicated, but it's just *click click click done*.
+
+When you have your URLs sorted, run this beauty
+`watircats screenshots http://website.com --config_file config.yml`
