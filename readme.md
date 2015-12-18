@@ -2,23 +2,17 @@
 
 To get started with this, you're going to need to install a few things:
 
-Paste this into terminal:
+Install `watir` by pasting this into terminal: `gem install watir`
 
-`gem install watir`
+Then install `watircats` by pasting this into the same terminal: `gem install watircats`
 
-Then paste this:
+Now check if you have `ImageMagick` by pasting `identify -version`. Should tell you `yay` or `nay` basically.
 
-`gem install watircats`
-
-Then check if you have `ImageMagick`
-
-`identify -version`
-
-If you don't, install it here: http://cactuslab.com/imagemagick/
+If you don't, install it here: [http://cactuslab.com/imagemagick/](http://cactuslab.com/imagemagick/)
 
 ---
 
-## Take screenshots
+## Everything installed? Wicked, lets take some screenshots
 
 Clone this repo `git clone git@github.com:yratof/screenshots.git && cd screenshots`
 
